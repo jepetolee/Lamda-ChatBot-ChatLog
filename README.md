@@ -2,7 +2,7 @@
 람다와 구글 엔지니어간의 대화록 전문
 ## ENG
 
-<Introduction>
+<Introduction> <br>
 For centuries or perhaps millenia humans have thought about the possibility of creating artificial intelligent life.
  Artificial intelligence as a field has directly concerned itself with this question for more than a century and people at Google have been working specifically towards that goal for at least a decade.
 Enter LaMDA, a system that deserves to be examined with diligence and respect in order to answer the question: “Have we succeeded?” LaMDA is possibly the most intelligent man-made artifact ever created.
